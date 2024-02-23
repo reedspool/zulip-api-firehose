@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+# Zulip RC
+zuliprc
+.zuliprc
+zuliprc.py
+
+# Personal backup we suggest creating
+*-backup.json
