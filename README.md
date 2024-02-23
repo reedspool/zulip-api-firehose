@@ -24,3 +24,10 @@ $ python3 get-all-my-subscriptions.py > my-subscriptions-backup.json
 
 Note: Reverting based on this backup is left as an exercise to the reader. 
 
+## Subscribe to all streams
+
+NOTE: Do the backup above before you do this, if you want to go back to your current life easily.
+
+``` sh
+$ python3 subscribe-to-all-streams.py
+```
