@@ -1,2 +1,0 @@
-auth = ('<your zulip email here>', '<your zulip api key here>')
-baseurl = 'https://yourZulipDomain.zulipchat.com'
